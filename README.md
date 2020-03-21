@@ -37,4 +37,4 @@
 ```
 
 И только во втором проекте определяем ExclusiveForProject2Step. Если даже забудем проставить ``` #if Project2 ```, то тогда получим ошибку компиляции для первого проекта.
-
+[Полный код примера](https://github.com/Viridovics/SharedExamples/tree/master/AdditionalStepExample)
